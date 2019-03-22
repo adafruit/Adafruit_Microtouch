@@ -17,18 +17,7 @@ This product is just the Microtouch dev board (preloaded with some demo Apps), a
 - Micro SD card slot
 - Battery monitoring, backlight control and on/off switch
 
-Of course, we wouldn't just leave you with a schematic or datasheet and say 'good luck'! The designer of the Microtouch (known to us by the code name "Rossum" ) has written a full hardware core operating system and multiple demo apps such as...
-
-- [Image viewer](http://www.ladyada.net/products/microtouch/index.html#image_viewer_built-in) built into the hardware core, you can plug in a microSD card with images, slide shows or animations that show up as 'mini Apps'
-- [Calibrate](http://www.ladyada.net/products/microtouch/index.html#calibrate_app) Touch-screen
-- [Doomed](http://www.ladyada.net/products/microtouch/index.html#doomed) a 3D rendering maze
-- [Accelerate](http://www.ladyada.net/products/microtouch/index.html#accelerate_app) keep the ball in the center of the screen by tilting
-- [Paint](http://www.ladyada.net/products/microtouch/index.html#paint_app) fingerpainting but without the cleanup
-- [Flip](http://www.ladyada.net/products/microtouch/index.html#flip_app) a Reversi game
-- [Mines](http://www.ladyada.net/products/microtouch/index.html#mines_app) like Minesweeper but without the hassle of installing Windows
-- [3D Icosohedron](http://www.ladyada.net/products/microtouch/index.html#icosohedron_app) controllable by tilting the board
-- [Pacman](http://www.ladyada.net/products/microtouch/index.html#pacman_app) a sprite animation demo
-- [Lattice](http://www.ladyada.net/products/microtouch/index.html#lattice_app) 3D lattice demo
+Of course, we wouldn't just leave you with a schematic or datasheet and say 'good luck'! The designer of the Microtouch (known to us by the code name "Rossum" ) has written a full hardware core operating system and multiple demo apps 
 
 The Microtouch is powerful and fun but is not meant for microcontroller beginners! If you're just starting out, we suggest checking out the Arduino to get your feet wet. Once you feel comfy with programming C and programming microcontrollers directly, come back and pick up one of these.
 
