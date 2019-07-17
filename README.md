@@ -22,3 +22,11 @@ Of course, we wouldn't just leave you with a schematic or datasheet and say 'goo
 The Microtouch is powerful and fun but is not meant for microcontroller beginners! If you're just starting out, we suggest checking out the Arduino to get your feet wet. Once you feel comfy with programming C and programming microcontrollers directly, come back and pick up one of these.
 
 The project is a collaboration between Rossum & Ladyada! [For detailed documentation and files, please visit the product page](http://www.ladyada.net/products/microtouch/index.html)
+
+### License
+
+Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from [Adafruit](https://www.adafruit.com)!
+
+Designed by Limor Fried/Ladyada for Adafruit Industries.
+
+Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution. See license.txt for additional details.
